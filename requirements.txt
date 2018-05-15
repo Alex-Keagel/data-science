@@ -1,0 +1,11 @@
+numpy==1.13.1
+scipy==0.19.1
+azure==2.0.0
+graphitesend==0.10.0
+logzio-python-handler==2.0.2
+statsd==3.2.1
+azure-storage==0.36
+configparser==3.5.0
+scikit_learn==0.18.1
+pandas==0.20.1
+watson-developer-cloud==0.26.1
